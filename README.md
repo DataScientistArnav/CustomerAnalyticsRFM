@@ -75,7 +75,7 @@ This case study demonstrates the power of data-driven customer segmentation in b
 
 ### Repository Files
 - **`Case study.pptx`**: Detailed presentation of customer segmentation and sales insights.
-- **`Lidl Analytics.ipynb`**: Python notebook containing data analysis and segmentation results.
+- **`Analytics Case Study.ipynb`**: Python notebook containing data analysis and segmentation results.
 
 ---
 
