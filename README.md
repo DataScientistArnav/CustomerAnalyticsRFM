@@ -88,7 +88,7 @@ This case study demonstrates the power of data-driven customer segmentation in b
 
 ### Author
 **Arnav Goel**  
-Data Scientist | [LinkedIn](https://www.linkedin.com/in/arnav-goel) | [GitHub](https://github.com/arnavgoel)
+Data Scientist | [LinkedIn](https://www.linkedin.com/in/arnavgoel123/) | [GitHub](https://github.com/DataScientistArnav)
 
 ---
 
