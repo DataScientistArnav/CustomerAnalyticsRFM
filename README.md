@@ -25,11 +25,11 @@ This project analyzes customer purchasing behavior to design effective personali
 #### Customer Segmentation
 Using **RFM Analysis** (Recency, Frequency, Monetary), we categorized customers into the following segments:
 
-- **High-Value Customers (20%)**: Most profitable, consistent buyers contributing **52.3% of monetary value**.
-- **Loyal Customers (20.8%)**: Frequent purchasers and brand advocates, contributing **20.5% of monetary value**.
-- **Potential Loyalists (19.8%)**: Emerging customers with high growth potential, contributing **12.4% of monetary value**.
-- **At Risk Customers (19.4%)**: Declining purchases, offering retention opportunities, contributing **8.5% of monetary value**.
-- **Lost Customers (19.9%)**: Previously active or one-time customers, contributing **6.3% of monetary value**.
+- **High-Value Customers (16%)**: Most profitable, consistent buyers contributing **61.8% of monetary value**.
+- **Loyal Customers (10.8%)**: Frequent purchasers and brand advocates, contributing **11.3% of monetary value**.
+- **Potential Loyalists (10.1%)**: Emerging customers with high growth potential, contributing **9.1% of monetary value**.
+- **At Risk Customers (24%)**: Declining purchases, offering retention opportunities, contributing **11.5% of monetary value**.
+- **Lost Customers (39.1%)**: Previously active or one-time customers, contributing **6.3% of monetary value**.
 
 #### Key Insights
 - High-Value Customers drive over half of the total revenue, highlighting the importance of loyalty retention.
